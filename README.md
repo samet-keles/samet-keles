@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/samet-keles](https://github.com/samet-keles)
 
-- 📝 I regularly write articles on [https://sametkeles.vercel.app/blog](https://sametkeles.vercel.app/blog)
+- 📝 I regularly write articles on [https://sametkeles.vercel.app/blog](https://www.sametkeles.com/blog)
 
 - 💬 Ask me about **Web Development, Vue**
 
